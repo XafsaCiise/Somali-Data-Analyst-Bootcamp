@@ -1,31 +1,148 @@
-# Somali Data Analyst Roadmap 🇸🇴
+# 📊 Data Analyst Roadmap (Somali Edition)
 
-Welcome to the **Somali Data Analyst Roadmap**! This repository is designed to bridge the gap between global data standards and the local needs of Somali institutions, including educational colleges, NGOs, and humanitarian organizations.
+Welcome to this structured roadmap designed to take you from **zero to job-ready Data Analyst** using practical projects and real datasets.
 
-## Mission
-My goal is to empower the next generation of Somali tech talent by providing a step-by-step, hands-on roadmap that focuses on practical, real-world skills—from data cleaning to advanced visualization.
-
-## Roadmap Structure
-This repository is organized by tool to help you build your portfolio logically:
-
-- [**01-Excel**](./01-excel/README.md)
-  - Data Cleaning, Analysis, and Business Logic.
-  - *Focus:* Turning messy raw exports into professional reports.
-- [**02-SQL**](./02-SQL/README.md) *(Coming Soon)*
-  - Database Management and Querying.
-- [**03-PowerBI**](./03-PowerBI/README.md) *(Coming Soon)*
-  - Visualizing humanitarian and institutional data.
-
-## Why This Roadmap?
-Most data roadmaps are generic. This one is different because it uses:
-1. **Contextual Datasets:** Projects based on real-world scenarios like food security tracking and student enrollment systems.
-2. **Professional Hygiene:** Teaching you repository organization and standard professional workflows.
-3. **Somali Institutional Focus:** Designed to help you build solutions that directly impact our local tech ecosystem.
-
-## Connect With Me
-I am a Lecturer and Database Administrator dedicated to building the Somali digital universe.
-- [LinkedIn](#)
-- [TikTok / YouTube - @HafsaCodes](#)
+This repository is built for learners who prefer:
+- Hands-on practice
+- Real-world datasets
+- Step-by-step progression
+- Clear skill levels
 
 ---
-*Developed by Hafsa Mohamed*
+
+# 🎯 Learning Path Overview
+
+You will learn in 4 stages:
+
+1. 📘 Excel (Data Cleaning + Analysis)
+2. 🗄️ SQL (Data Extraction + Queries)
+3. 📊 Data Visualization (Dashboards + Insights)
+4. 🐍 Python (Automation + Advanced Analysis)
+
+---
+
+# 📘 Phase 1: Excel for Data Analysis (START HERE)
+
+## 🎯 Goal
+Learn how to clean, organize, and analyze raw data using Excel like a real analyst.
+
+---
+
+## 📁 Dataset
+- `regional_sales_performance.csv`
+- `customer_reference.csv`
+
+---
+
+## 🧠 Skills You Will Learn
+
+### 1. Data Cleaning
+- TRIM (remove extra spaces)
+- PROPER (fix capitalization)
+- VALUE (convert text to numbers)
+- DATEVALUE (fix date formats)
+- Find & Fix missing values
+
+---
+
+### 2. Basic Analysis
+- SUM (total sales)
+- AVERAGE (average price)
+- COUNT / COUNTA (data size)
+- MAX / MIN (best & worst values)
+
+---
+
+### 3. Logical Thinking
+- IF (classify data)
+- IFS (multi-condition logic)
+- ISBLANK (detect missing values)
+- IFERROR (handle errors)
+
+---
+
+### 4. Lookup Skills
+- XLOOKUP (connect tables)
+- MATCH (find positions)
+
+---
+
+### 5. Advanced Analysis
+- SUMIFS (conditional totals)
+- COUNTIFS (conditional counting)
+- SUMPRODUCT (advanced calculations)
+
+---
+
+# 🧪 Excel Practice Tasks
+
+## 🧹 Task 1: Clean the Data
+- Remove spaces from Product_Code
+- Standardize product names
+- Fix date formats
+- Convert Unit_Price into numbers
+
+---
+
+## 📊 Task 2: Sales Analysis
+- Total sales per Sales Rep
+- Total revenue per product
+- Count returned orders
+- Identify top-selling product
+
+---
+
+## 🔗 Task 3: Join Data
+- Use XLOOKUP to bring:
+  - Customer_Name
+  - Region
+
+---
+
+## 📈 Task 4: Insights
+- Which Sales Rep performed best?
+- Which product sells most?
+- Which region has highest sales?
+
+---
+
+# 🧩 Excel Project Output
+By the end of this phase, you will build:
+
+✔ Clean dataset  
+✔ Sales summary table  
+✔ PivotTable dashboard  
+✔ Basic Excel report  
+
+---
+
+# 🚀 Next Phases (Coming Soon)
+
+## 🗄️ Phase 2: SQL
+- SELECT, WHERE, GROUP BY
+- JOIN operations
+- Aggregations
+
+## 📊 Phase 3: Data Visualization
+- Power BI / Excel dashboards
+- Charts & storytelling
+
+## 🐍 Phase 4: Python
+- Pandas for data analysis
+- Automation
+- Advanced analytics
+
+---
+
+# 🎯 Goal of this roadmap
+To prepare you for real Data Analyst jobs by building:
+- Technical skills
+- Problem-solving ability
+- Portfolio projects
+
+---
+
+# 👩‍💻 Start here:
+👉 Open Excel folder and begin Phase 1
+
+---
